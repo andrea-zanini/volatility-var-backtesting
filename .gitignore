@@ -11,4 +11,3 @@ share/
 pyvenv.cfg
 *.parquet
 *.xlsx
-*.png
