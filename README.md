@@ -119,3 +119,6 @@ Structure
 * results/ → saved outputs (forecast, hits, kupiec, plots, returns, stats, VaR, violation rate)
 * notebooks/ → analysis and visualization
 * main.py → full pipeline
+**Note**: the `results/` folder contains only plots.
+Data files (.parquet) are excluded from the repository as they are
+fully reproducible by running `main.py`.
