@@ -11,3 +11,4 @@ share/
 pyvenv.cfg
 *.parquet
 *.xlsx
+.DS_Store
